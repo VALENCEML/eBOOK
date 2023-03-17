@@ -1,11 +1,9 @@
 numpy
 scipy
 matplotlib
-pandas
 seaborn
-skimage
-sklearn
+scikit-image
+scikit-learn
 cartopy
 wget
 google-colab
-session_info
