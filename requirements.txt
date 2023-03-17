@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+skimage
+sklearn
+cartopy
+wget
+google-colab
+session_info
