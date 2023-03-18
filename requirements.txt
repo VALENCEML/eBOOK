@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+seaborn
+scikit-image
+scikit-learn
+cartopy
+wget
+google-colab
