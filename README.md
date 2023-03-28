@@ -19,7 +19,7 @@ To access the material you need a local working [Jupyter Lab installation](https
 ## Interactive eBook
 ### English
 
-1. [Working environment](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/01/Working%20environment.ipynb)
+1. [Working environment](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/01/01_Working_environment_EN.ipynb)
 1. [Programming basics](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/02/2.%20Programming%20basics.ipynb)
 1. [Data set management](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/03/3.%20DATA%20SET%20MANAGEMENT.ipynb)
 1. [Statistical analysis](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/04/4.%20Statistical%20analysis.ipynb)
