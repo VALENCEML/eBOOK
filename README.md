@@ -1,3 +1,5 @@
+<img alt="Valence logo" src="valence.png">
+
 # VALENCE Project
 ## Advancing Machine Learning and Data Science in Vocation High School Education
 
