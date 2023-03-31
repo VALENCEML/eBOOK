@@ -84,16 +84,26 @@ To access the material you need a local working [Jupyter Lab installation](https
 
 ### Albanian
 
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/1.%20Working%20environment_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/2.%20Programming%20basics_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/3.%20DATA%20SET%20MANAGEMENT_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/4.%20Statistical%20analysis_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/5.%20DATA%20VISUALIZATION_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/6.%20Machine%20learning%20basics_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/7%20-%20Machine%20learning%20data%20preparation_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/8.valence_supervised_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/9.%20Clustering_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/10_Performance_metrics_Validation_techniques_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/11.%20Neural%20Networks_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/12.%20Fully%20connected%20NNs_AL.ipynb
-https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/13.%20Deep%20NNs_AL.ipynb
+1. [Mjedisi i punës](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/1.%20Working%20environment_AL.ipynb)
+1. [Bazat e programimit](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/2.%20Programming%20basics_AL.ipynb)
+1. [Menaxhimi i grupit të të dhënave
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/3.%20DATA%20SET%20MANAGEMENT_AL.ipynb)
+1. [Analiza statistikore
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/4.%20Statistical%20analysis_AL.ipynb)
+1. [Vizualizimi i të dhënave
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/5.%20DATA%20VISUALIZATION_AL.ipynb)
+1. [Bazat e mësimit të makinerisë
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/6.%20Machine%20learning%20basics_AL.ipynb)
+1. [Përgatitja e të dhënave të mësimit të makinerisë
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/7%20-%20Machine%20learning%20data%20preparation_AL.ipynb)
+1. [Mësimi i mbikëqyrur
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/8.valence_supervised_AL.ipynb)
+1. [Mësimi i makinerisë pa mbikëqyrje - Grumbullimi
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/9.%20Clustering_AL.ipynb)
+1. [Metrikat e performancës dhe teknikat e vlefshmërisë
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/10_Performance_metrics_Validation_techniques_AL.ipynb)
+1. [Rrjetet nervore
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/11.%20Neural%20Networks_AL.ipynb)
+1. [Rrjetet nervore të cekëta
+](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/12.%20Fully%20connected%20NNs_AL.ipynb)
+1. [Rrjetet e thella nervore](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/AL/13.%20Deep%20NNs_AL.ipynb)
