@@ -25,7 +25,7 @@ To access the material you need a local working [Jupyter Lab installation](https
 1. [Statistical analysis](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/04/4.%20Statistical%20analysis.ipynb)
 1. [Data visualization](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/05/5.%20DATA%20VISUALIZATION.ipynb)
 1. [Machine learning basics](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/06/6.%20Machine%20learning%20basics.ipynb)
-1. [Machine learning data preparation](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/07/7%20-%20Machine%20learning%20data%20preparation.ipynb)
+1. [Machine learning data preparation](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/07/7%20-%20Machine%20learning%20data%20preparation_EN.ipynb)
 1. [Supervised machine learning](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/08/8.valence_supervised.ipynb)
 1. [Unsupervised machine learning](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/09/9.%20Clustering.ipynb)
 1. [Evaluation](https://colab.research.google.com/github/VALENCEML/eBOOK/blob/main/EN/10/10_Performance_metrics_Validation_techniques.ipynb)
