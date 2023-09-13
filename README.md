@@ -6,10 +6,11 @@
 This repository hosts the source files for the  [VALENCE](http://www.valence-project.eu/): Machine Learning and Data Science in Vocation High School Education lecture materials. 
 
 The lectures have been translated to the following languages:
-- English
-- Macedonian
-- Slovene
-- Serbian
+- [English](https://github.com/VALENCEML/eBOOK#english)
+- [Macedonian](https://github.com/VALENCEML/eBOOK#macedonian)
+- [Slovene](https://github.com/VALENCEML/eBOOK#slovene)
+- [Serbian](https://github.com/VALENCEML/eBOOK#serbian)
+- [Albanian](https://github.com/VALENCEML/eBOOK#albanian)
 
 The different translations are stored in different folders within the repository.
 
